@@ -1,8 +1,8 @@
 # WavReader
 Read WAV header and data from the files (.wav)
 ## Includes
-* [WavReader.cpp](https://github.com/tkacz-/WavReader/blob/master/WavReader/WavReader.cpp "For C++") - writing on C++
-* [WavReaderQt.cpp](https://github.com/tkacz-/WavReader/blob/master/WavReader_Qt/WavReaderQt.cpp "For Qt") - writing on QT
+* [WavReader.cpp](https://github.com/tkacz-/WavReader/blob/master/WavReader/WavReader.cpp "For C++") - written in C++
+* [WavReaderQt.cpp](https://github.com/tkacz-/WavReader/blob/master/WavReader_Qt/WavReaderQt.cpp "For Qt") - written in QT
 
 ## The header of a WAV file
 
