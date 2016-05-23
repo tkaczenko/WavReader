@@ -41,6 +41,3 @@ Read WAV header and data from the files (.wav)
  	44-..    Data samples
  	
 The file could have another sub-chunks.
-
-## Copyright 
-© Andrei Tkachenko (@tkacz-) include.free@gmail.com
