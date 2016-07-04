@@ -1,8 +1,9 @@
 # WavReader
-Read WAV header and data from the files (.wav)
+Console utilities for reading wave format (.wav) header and data written in C++, C++/Qt, Java.
 ## Includes
 * [WavReader.cpp](https://github.com/tkacz-/WavReader/blob/master/WavReader/WavReader.cpp "For C++") - written in C++
 * [WavReaderQt.cpp](https://github.com/tkacz-/WavReader/blob/master/WavReader_Qt/WavReaderQt.cpp "For Qt") - written in QT
+* [MetaReader.java](https://github.com/tkacz-/WavReader/blob/master/WavReader_Java/MetaReader.java "For Java") - written in Java
 
 ## The header of a WAV file
 
